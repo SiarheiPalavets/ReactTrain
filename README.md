@@ -3,17 +3,16 @@
 Demo proj on react to search movies from open database
 
 # Install
-
 ### create a folder
-    
-    cd [folderName]
+  cd [folderName]
 
 ### clone
-  
   git clone https://github.com/SiarheiPalavets/ReactTrainhttps://github.com/SiarheiPalavets/ReactTrain.git
 
-### npm install
+### install
+  npm install
 
-### npm start
+### start
+  npm start
 
-# Built on JS, React
+## Built on JS, React
